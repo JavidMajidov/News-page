@@ -1,0 +1,66 @@
+.conteiner {
+    width: 640px;
+    margin: 0 auto;
+}
+  
+
+p {
+    margin-top: 5px;
+    margin-bottom: 20px;
+    font: 20px Arial, sans-serif;
+    color: #333;
+    width: 600px;
+    line-height: 1.6;
+}
+
+.img-box  {
+    width: 640px;
+    margin: auto;
+    overflow: hidden;
+}
+
+h1 {
+    margin: 15px 0 5px;
+    color: #13317F;
+    font-size: 40px;
+    font-family:  Arial, sans-serif;
+    width: 600px;
+}
+
+h2 {
+    color: #13317F;
+    font-size: 24px;
+    margin-top: 0;
+    margin-bottom: 20px;
+    font-family:  Arial, sans-serif;
+}
+
+.social-media {
+    display: inline-block;
+    width: 35px;
+    height: 35px;
+    border-radius: 50%;
+    text-align: center;
+    line-height: 44px;
+    
+  }
+
+.social-media i {
+    color: white;
+    font-size: 23px;
+  }
+
+  .telegram {
+      background-color: SteelBlue;
+  }
+
+.whatsapp {
+    background-color: LimeGreen;
+}
+
+span {
+    font-family:  Arial, sans-serif;
+    text-indent: 30px;
+    padding: 15px;
+}
+
